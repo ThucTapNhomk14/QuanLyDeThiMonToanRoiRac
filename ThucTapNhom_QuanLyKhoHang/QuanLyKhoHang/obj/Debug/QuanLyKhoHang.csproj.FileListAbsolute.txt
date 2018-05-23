@@ -1,0 +1,138 @@
+c:\users\truong_loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe.config
+c:\users\truong_loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe
+c:\users\truong_loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.pdb
+c:\users\truong_loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csprojResolveAssemblyReference.cache
+c:\users\truong_loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Properties.Resources.resources
+c:\users\truong_loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csproj.GenerateResource.Cache
+c:\users\truong_loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.exe
+c:\users\truong_loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.pdb
+c:\users\truong_loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuBH.resources
+c:\users\truong_loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuNhap.resources
+c:\users\truong_loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuXuat.resources
+c:\users\truong_loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.DangNhap.resources
+c:\users\truong_loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.NhanVien.resources
+c:\users\truong_loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.TonKho.resources
+c:\users\truong_loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.GiaoDien.resources
+C:\Users\Truong_Loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.DangKy.resources
+C:\Users\Truong_Loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.SanPham.resources
+C:\Users\Truong_Loi\Documents\Visual Studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.TimKiem.resources
+C:\Users\Truong_Loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.HangSanXuat.resources
+C:\Users\Truong_Loi\documents\visual studio 2015\Projects\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.LoaiSP.resources
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe.config
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.exe
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.pdb
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.pdb
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csprojResolveAssemblyReference.cache
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuBH.resources
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuNhap.resources
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuXuat.resources
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.DangNhap.resources
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.GiaoDien.resources
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.HangSanXuat.resources
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.LoaiSP.resources
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.NhanVien.resources
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Properties.Resources.resources
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.SanPham.resources
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.TimKiem.resources
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.TonKho.resources
+C:\Users\Truong_Loi\Desktop\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csproj.GenerateResource.Cache
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe.config
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.pdb
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csprojResolveAssemblyReference.cache
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuBH.resources
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuNhap.resources
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuXuat.resources
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.DangNhap.resources
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.GiaoDien.resources
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.HangSanXuat.resources
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.LoaiSP.resources
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.NhanVien.resources
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Properties.Resources.resources
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.SanPham.resources
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.TimKiem.resources
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.TonKho.resources
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csproj.GenerateResource.cache
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csproj.CoreCompileInputs.cache
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.exe
+C:\Users\Cesc_PC\Downloads\baitap\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.pdb
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe.config
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.pdb
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuBH.resources
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuNhap.resources
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuXuat.resources
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.DangNhap.resources
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.GiaoDien.resources
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.HangSanXuat.resources
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.LoaiSP.resources
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.NhanVien.resources
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Properties.Resources.resources
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.SanPham.resources
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.TimKiem.resources
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.TonKho.resources
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csproj.GenerateResource.Cache
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.exe
+C:\Users\MyPC\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.pdb
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe.config
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.exe
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.pdb
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.pdb
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csprojResolveAssemblyReference.cache
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuBH.resources
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuNhap.resources
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuXuat.resources
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.DangNhap.resources
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.GiaoDien.resources
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.HangSanXuat.resources
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.LoaiSP.resources
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.NhanVien.resources
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Properties.Resources.resources
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.SanPham.resources
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.TimKiem.resources
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.TonKho.resources
+C:\Users\Truong_Loi\Desktop\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csproj.GenerateResource.Cache
+E:\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe.config
+E:\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe
+E:\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.pdb
+E:\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csprojResolveAssemblyReference.cache
+E:\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuBH.resources
+E:\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuNhap.resources
+E:\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuXuat.resources
+E:\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.DangNhap.resources
+E:\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.GiaoDien.resources
+E:\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.HangSanXuat.resources
+E:\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.LoaiSP.resources
+E:\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.NhanVien.resources
+E:\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Properties.Resources.resources
+E:\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.SanPham.resources
+E:\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.TimKiem.resources
+E:\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.TonKho.resources
+E:\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csproj.GenerateResource.Cache
+E:\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csproj.CoreCompileInputs.cache
+E:\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.exe
+E:\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.pdb
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe.config
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.exe
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\bin\Debug\QuanLyKhoHang.pdb
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csprojResolveAssemblyReference.cache
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuBH.resources
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuNhap.resources
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.CTPhieuXuat.resources
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.DangNhap.resources
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.GiaoDien.resources
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.HangSanXuat.resources
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.LoaiSP.resources
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.NhanVien.resources
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.Properties.Resources.resources
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.SanPham.resources
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.TimKiem.resources
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.TonKho.resources
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csproj.GenerateResource.cache
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.csproj.CoreCompileInputs.cache
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.exe
+E:\Học tập\Thực tập nhóm (quản lý kho và ngân hàng đề thi trr)\Nhóm 4\QuanLyKhoHang\QuanLyKhoHang\obj\Debug\QuanLyKhoHang.pdb
